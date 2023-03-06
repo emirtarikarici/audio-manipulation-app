@@ -1,9 +1,9 @@
-## AudioProcessor
+# AudioProcessor
 a basic recorded audio manipulation app with MATLAB App Designer
 
 the working principle of app is recording the audio and plotting the recording by time and frequency. besides, you can manipulate the audio with knobs and switches.
 
-# Properties:
+## Properties:
 - a record button for simultaneously recording
 - 2 play buttons, for playing the original version of audio and the manipulated version of audio.
 - a knob for speed of the audio from x0 to x2.
